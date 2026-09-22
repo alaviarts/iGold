@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="348" viewBox="0 0 1200 348" role="img" aria-labelledby="title desc">
+  <title id="title">iGold — Connected analytical workspace, conceptual illustration</title>
+  <desc id="desc">A conceptual chart with price and analytic overlays, complemented by XRay market data views and Python-based custom indicators and strategy research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b20"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b99a64" stop-opacity=".17"/><stop offset="1" stop-color="#b99a64" stop-opacity="0"/></linearGradient>
+    <clipPath id="plot"><rect x="72" y="76" width="605" height="186" rx="4"/></clipPath>
+  </defs>
+  <rect width="1200" height="348" rx="25" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="346" rx="24" fill="none" stroke="#36322d"/>
+  <text x="68" y="39" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#c5a773" letter-spacing="2.5">CONNECTED ANALYTICAL WORKSPACE</text>
+  <text x="1132" y="39" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#8495a3" letter-spacing="1">CONCEPTUAL VIEW</text>
+  <rect x="52" y="57" width="646" height="238" rx="14" fill="#121920" stroke="#45505a"/>
+  <g stroke="#2c363c" stroke-width="1" opacity=".95">
+    <path d="M72 99H678M72 138H678M72 177H678M72 216H678M72 255H678"/>
+    <path d="M123 76V262M219 76V262M315 76V262M411 76V262M507 76V262M603 76V262"/>
+  </g>
+  <g clip-path="url(#plot)">
+    <path d="M72 241L116 221L157 228L200 176L237 199L276 152L320 167L362 131L408 150L449 113L490 126L530 89L572 109L619 83L678 99L678 263L72 263Z" fill="url(#area)"/>
+    <path d="M72 241L116 221L157 228L200 176L237 199L276 152L320 167L362 131L408 150L449 113L490 126L530 89L572 109L619 83L678 99" fill="none" stroke="#dbb676" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M72 215C135 214 176 206 230 184S333 175 390 153S493 133 548 124S631 115 678 105" fill="none" stroke="#77b4b9" stroke-width="1.7" stroke-dasharray="6 5" opacity=".9"/>
+    <path d="M72 251C136 245 204 259 256 226S379 214 426 185S552 194 602 153S640 158 678 142" fill="none" stroke="#9a85ba" stroke-width="1.35" opacity=".71"/>
+  </g>
+  <circle cx="619" cy="83" r="4" fill="#e5c997"/><circle cx="619" cy="83" r="11" stroke="#e5c997" stroke-opacity=".5" fill="none"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#aebbc4">
+    <text x="74" y="282">PRICE</text><rect x="121" y="274" width="15" height="3" rx="1.5" fill="#dbb676"/>
+    <text x="159" y="282">MARKET DATA</text><rect x="258" y="274" width="15" height="3" rx="1.5" fill="#77b4b9"/>
+    <text x="295" y="282">OVERLAYS</text><rect x="374" y="274" width="15" height="3" rx="1.5" fill="#9a85ba"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="722" y="57" width="425" height="112" rx="13" fill="#151c21" stroke="#45505a"/>
+    <text x="747" y="87" fill="#e3c291" font-size="19" font-weight="700">XRAY</text>
+    <text x="747" y="108" fill="#abb9c5" font-size="13">Explore the data behind price behavior</text>
+    <g fill="#7baeb0"><rect x="747" y="128" width="54" height="9" rx="4"/><rect x="808" y="128" width="37" height="9" rx="4" opacity=".55"/><rect x="852" y="128" width="74" height="9" rx="4" opacity=".8"/><rect x="933" y="128" width="40" height="9" rx="4" opacity=".45"/><rect x="980" y="128" width="83" height="9" rx="4" opacity=".72"/><rect x="1070" y="128" width="48" height="9" rx="4" opacity=".32"/></g>
+    <rect x="722" y="184" width="425" height="111" rx="13" fill="#151c21" stroke="#45505a"/>
+    <text x="747" y="214" fill="#e3c291" font-size="18" font-weight="700">PYTHON CHART STUDIO</text>
+    <text x="747" y="236" fill="#abb9c5" font-size="13">Custom indicators · Overlays · Strategy scripts</text>
+    <path d="M747 259h136m15 0h45m15 0h62m13 0h79" stroke="#a18fc3" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+    <path d="M747 273h52m15 0h74m15 0h39m15 0h88" stroke="#688d9b" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+  </g>
+  <text x="600" y="327" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#8d9aa6">One research context across price, market information, XRay, and programmable analysis.</text>
+</svg>
