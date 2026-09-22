@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-labelledby="title desc">
+  <title id="title">iGold — The market research journey</title>
+  <desc id="desc">Discover market activity, investigate a selected asset, understand multidimensional data, validate a hypothesis, and act through connected trading.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#171b20"/></linearGradient>
+  </defs>
+  <rect width="1200" height="242" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="240" rx="23" fill="none" stroke="#35322c"/>
+  <text x="600" y="39" fill="#bd9b66" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.8">ONE CONNECTED RESEARCH JOURNEY</text>
+  <g fill="none" stroke="#876b47" stroke-width="1.6" opacity=".82">
+    <path d="M260 125h22l-6 -5m6 5l-6 5"/>
+    <path d="M491 125h22l-6 -5m6 5l-6 5"/>
+    <path d="M722 125h22l-6 -5m6 5l-6 5"/>
+    <path d="M953 125h22l-6 -5m6 5l-6 5"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="55" y="77" width="205" height="111" rx="13" fill="#191c20" stroke="#514735"/>
+      <text x="157" y="104" font-size="12" fill="#b79a6e" font-weight="700" letter-spacing="1">01 / RADAR</text>
+      <text x="157" y="136" font-size="20" fill="#eef0f2" font-weight="700">DISCOVER</text>
+      <text x="157" y="162" font-size="13" fill="#aab5c1">Broad-market activity</text>
+    </g>
+    <g>
+      <rect x="286" y="77" width="205" height="111" rx="13" fill="#191c20" stroke="#514735"/>
+      <text x="388" y="104" font-size="12" fill="#b79a6e" font-weight="700" letter-spacing="1">02 / CHART</text>
+      <text x="388" y="136" font-size="19" fill="#eef0f2" font-weight="700">INVESTIGATE</text>
+      <text x="388" y="162" font-size="13" fill="#aab5c1">Focused market research</text>
+    </g>
+    <g>
+      <rect x="517" y="77" width="205" height="111" rx="13" fill="#202018" stroke="#a8864d"/>
+      <text x="619" y="104" font-size="12" fill="#d1b780" font-weight="700" letter-spacing="1">03 / MARKET DNA</text>
+      <text x="619" y="136" font-size="19" fill="#eef0f2" font-weight="700">UNDERSTAND</text>
+      <text x="619" y="162" font-size="13" fill="#bcc5c9">Multidimensional context</text>
+    </g>
+    <g>
+      <rect x="748" y="77" width="205" height="111" rx="13" fill="#191c20" stroke="#514735"/>
+      <text x="850" y="104" font-size="12" fill="#b79a6e" font-weight="700" letter-spacing="1">04 / RESEARCH</text>
+      <text x="850" y="136" font-size="19" fill="#eef0f2" font-weight="700">VALIDATE</text>
+      <text x="850" y="162" font-size="13" fill="#aab5c1">Replay · Test · Simulate</text>
+    </g>
+    <g>
+      <rect x="979" y="77" width="166" height="111" rx="13" fill="#191c20" stroke="#514735"/>
+      <text x="1062" y="104" font-size="12" fill="#b79a6e" font-weight="700" letter-spacing="1">05 / TRADING</text>
+      <text x="1062" y="136" font-size="20" fill="#eef0f2" font-weight="700">ACT</text>
+      <text x="1062" y="162" font-size="13" fill="#aab5c1">Controlled execution</text>
+    </g>
+  </g>
+  <text x="600" y="220" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#8b959d">One connected market context, from discovery to a trading decision.</text>
+</svg>
