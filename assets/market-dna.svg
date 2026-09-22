@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="315" viewBox="0 0 1200 315" role="img" aria-labelledby="title desc">
+  <title id="title">iGold Market DNA — Connected market information</title>
+  <desc id="desc">Four complementary data perspectives—price and state, trading flow, liquidity, and historical context—support a shared Market DNA foundation, charting, XRay, market intelligence and research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b20"/></linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#242118"/><stop offset=".5" stop-color="#3a3020"/><stop offset="1" stop-color="#242118"/></linearGradient>
+  </defs>
+  <rect width="1200" height="315" rx="25" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="313" rx="24" fill="none" stroke="#34312b"/>
+  <text x="600" y="38" text-anchor="middle" fill="#bca375" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">MULTIPLE PERSPECTIVES · ONE CONNECTED FOUNDATION</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <rect x="48" y="70" width="253" height="66" rx="12" fill="#171d22" stroke="#3b444b"/>
+    <rect x="331" y="70" width="253" height="66" rx="12" fill="#171d22" stroke="#3b444b"/>
+    <rect x="614" y="70" width="253" height="66" rx="12" fill="#171d22" stroke="#3b444b"/>
+    <rect x="897" y="70" width="253" height="66" rx="12" fill="#171d22" stroke="#3b444b"/>
+    <g fill="#e8edf2" font-size="17" font-weight="700">
+      <text x="174" y="98">PRICE &amp; STATE</text>
+      <text x="457" y="98">TRADING FLOW</text>
+      <text x="740" y="98">LIQUIDITY</text>
+      <text x="1023" y="98">HISTORY &amp; TIME</text>
+    </g>
+    <g fill="#9eaeb9" font-size="13">
+      <text x="174" y="118">Price &amp; market conditions</text>
+      <text x="457" y="118">Transaction activity</text>
+      <text x="740" y="118">Market depth perspectives</text>
+      <text x="1023" y="118">Temporal continuity</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#9b7f52" stroke-width="1.4" opacity=".75">
+    <path d="M174 136V169H600M457 136V169H600M740 136V169H600M1023 136V169H600"/>
+    <path d="M600 169v15"/>
+  </g>
+  <circle cx="600" cy="169" r="3.5" fill="#d7b474"/>
+  <rect x="188" y="184" width="824" height="75" rx="15" fill="url(#core)" stroke="#ac8952"/>
+  <text x="600" y="216" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" fill="#f0e4ce" letter-spacing="2.1">MARKET DNA</text>
+  <text x="600" y="240" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#c5b89f">Connected · Quality-aware · Historical &amp; Live</text>
+  <text x="600" y="295" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#a7b4bf" letter-spacing=".6">RADAR   ·   NATIVE CHARTING   ·   XRAY   ·   INTELLIGENCE   ·   RESEARCH</text>
+</svg>
