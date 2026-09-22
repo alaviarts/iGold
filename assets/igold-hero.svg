@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">iGold — See the Market in Motion</title>
+  <desc id="desc">Integrated crypto market intelligence, research and trading platform. Discover, understand, validate and act.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".54" stop-color="#10151c"/>
+      <stop offset="1" stop-color="#171b20"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="36%" r="63%">
+      <stop offset="0" stop-color="#ad8547" stop-opacity=".21"/>
+      <stop offset=".53" stop-color="#796039" stop-opacity=".065"/>
+      <stop offset="1" stop-color="#796039" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a57f49" stop-opacity="0"/>
+      <stop offset=".24" stop-color="#a57f49" stop-opacity=".42"/>
+      <stop offset=".53" stop-color="#c9a971" stop-opacity=".14"/>
+      <stop offset=".83" stop-color="#a57f49" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#a57f49" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="350" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="350" rx="26" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1198" height="348" rx="25" stroke="#35322c" fill="none"/>
+  <g fill="none" stroke="#8b754f" opacity=".14">
+    <path d="M0 282H1200M0 315H1200M0 248H1200"/>
+    <path d="M110 0V350M240 0V350M960 0V350M1090 0V350"/>
+  </g>
+  <g fill="none" stroke="url(#trace)" stroke-width="1.4">
+    <path d="M-18 244 C96 268 138 192 235 233 S420 286 518 233 S711 186 811 233 S1020 290 1218 220"/>
+    <path d="M-18 275 C114 293 162 237 257 272 S436 307 551 268 S725 239 831 271 S1054 294 1218 254" opacity=".57"/>
+    <path d="M-18 214 C95 193 164 235 266 210 S460 181 540 204 S751 228 851 205 S1033 170 1218 197" opacity=".43"/>
+  </g>
+  <g fill="#c4a36d" opacity=".55">
+    <circle cx="232" cy="232" r="2.5"/><circle cx="517" cy="234" r="2"/>
+    <circle cx="812" cy="233" r="2.5"/><circle cx="1014" cy="256" r="2"/>
+  </g>
+  <text x="600" y="112" text-anchor="middle" fill="#f3f3f2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="1">iGold<tspan dy="-31" dx="4" font-size="20" letter-spacing="0">™</tspan></text>
+  <text x="600" y="152" text-anchor="middle" fill="#d9b980" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2.4">SEE THE MARKET IN MOTION</text>
+  <text x="600" y="189" text-anchor="middle" fill="#bac4ce" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">Integrated Market Intelligence · Research · Trading</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6" fill="#b6aaa0" text-anchor="middle">
+    <text x="305" y="321">DISCOVER</text>
+    <text x="486" y="321">INVESTIGATE</text>
+    <text x="686" y="321">VALIDATE</text>
+    <text x="867" y="321">ACT</text>
+  </g>
+  <g fill="#ba9862" opacity=".62">
+    <circle cx="392" cy="317" r="2"/><circle cx="585" cy="317" r="2"/><circle cx="781" cy="317" r="2"/>
+  </g>
+</svg>
